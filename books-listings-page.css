@@ -1,0 +1,273 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.mask-group-child5,
+.mask-group8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 196px;
+  height: 207px;
+}
+.mask-group-child5 {
+  object-fit: cover;
+}
+.mask-group8 {
+  cursor: pointer;
+}
+.group-child32 {
+  position: absolute;
+  top: 158.43px;
+  left: 30.66px;
+  background-color: var(--color-white);
+  width: 140.16px;
+  height: 48.57px;
+}
+.mask-group-parent2 {
+  position: absolute;
+  top: 55px;
+  left: 58px;
+  width: 196px;
+  height: 207px;
+}
+.books-listings-page-child {
+  position: absolute;
+  top: 238px;
+  left: 0;
+  width: 1468.5px;
+  height: 284px;
+  mix-blend-mode: normal;
+}
+.bts8 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.library8 {
+  margin: 0;
+}
+.about8,
+.bts-library8 {
+  position: absolute;
+  display: inline-block;
+}
+.bts-library8 {
+  top: 90px;
+  left: 195px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-notable);
+  white-space: pre-wrap;
+  width: 202px;
+  height: 44px;
+}
+.about8 {
+  top: 0;
+  left: 0;
+  width: 106px;
+  height: 37px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.register9 {
+  left: 106px;
+  width: 118px;
+}
+.log-in12,
+.register9,
+.search8 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  height: 37px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.search8 {
+  left: 337px;
+  width: 81px;
+  cursor: pointer;
+}
+.log-in12 {
+  left: 238px;
+  white-space: pre-wrap;
+  width: 93px;
+}
+.about-parent6,
+.books-listings-page-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 418px;
+  height: 37px;
+}
+.books-listings-page-inner {
+  top: 49px;
+  left: 928px;
+  font-size: var(--font-size-lg);
+}
+.books8,
+.music8,
+.videos8 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  width: 198px;
+  height: 33px;
+}
+.books8 {
+  left: 0;
+  letter-spacing: 0.1em;
+  -webkit-text-stroke: 1px #000;
+}
+.music8,
+.videos8 {
+  left: 88px;
+}
+.videos8 {
+  left: 186px;
+}
+.books-parent6,
+.the-bts-library {
+  position: absolute;
+  top: 180px;
+  left: 962px;
+  width: 384px;
+  height: 33px;
+}
+.the-bts-library {
+  top: 271px;
+  left: 114px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 424px;
+  height: 192px;
+}
+.books-listings-page-item {
+  position: absolute;
+  top: 236px;
+  left: 657px;
+  width: 570px;
+  height: 286px;
+  overflow: hidden;
+}
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7,
+.frame-child8 {
+  position: absolute;
+  top: 27px;
+  left: 575px;
+  width: 280px;
+  height: 145px;
+  object-fit: cover;
+}
+.frame-child5,
+.frame-child6,
+.frame-child7,
+.frame-child8 {
+  top: 234px;
+}
+.frame-child6,
+.frame-child7,
+.frame-child8 {
+  top: 27px;
+  left: 916px;
+}
+.frame-child7,
+.frame-child8 {
+  top: 234px;
+}
+.frame-child8 {
+  top: 27px;
+  left: 28px;
+  width: 480px;
+  height: 348px;
+  cursor: pointer;
+}
+.frame-child9 {
+  position: absolute;
+  top: 375px;
+  left: 29px;
+  background-color: var(--color-darkslateblue-100);
+  width: 479px;
+  height: 24px;
+}
+.moderator-picks-book {
+  position: absolute;
+  top: 370px;
+  left: 28px;
+  display: inline-block;
+  width: 480px;
+  height: 34px;
+}
+.frame-child10,
+.frame-child11,
+.frame-child12,
+.frame-child13 {
+  position: absolute;
+  top: 172px;
+  left: 575px;
+  background: linear-gradient(#6667ab, #6667ab),
+    linear-gradient(#6667ab, #6667ab), #6667ab;
+  width: 280px;
+  height: 25px;
+}
+.frame-child11,
+.frame-child12,
+.frame-child13 {
+  left: 916px;
+}
+.frame-child12,
+.frame-child13 {
+  top: 375px;
+  height: 24px;
+}
+.frame-child13 {
+  left: 575px;
+}
+.book-lists-for,
+.books-of-the,
+.personalized-picks,
+.read-alikes-more {
+  position: absolute;
+  top: 168px;
+  left: 575px;
+  display: inline-block;
+  width: 280px;
+  height: 29px;
+}
+.books-of-the,
+.personalized-picks,
+.read-alikes-more {
+  top: 370px;
+  left: 572px;
+}
+.books-of-the,
+.read-alikes-more {
+  top: 168px;
+  left: 916px;
+}
+.read-alikes-more {
+  top: 370px;
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 547px;
+  left: 79px;
+  width: 1267px;
+  height: 450px;
+  overflow: hidden;
+  color: var(--color-white);
+}
+.books-listings-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-noto-music);
+}

@@ -1,0 +1,261 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.frame-child,
+.group-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  width: 903px;
+  height: 533px;
+}
+.group-child10 {
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslateblue-200);
+  width: 782px;
+  height: 55px;
+}
+.check-out-history {
+  position: absolute;
+  top: 15px;
+  left: 268px;
+  display: inline-block;
+  width: 246px;
+  height: 25px;
+}
+.frame-div,
+.rectangle-parent5,
+.rectangle-parent6 {
+  position: absolute;
+  left: 61px;
+  width: 782px;
+  height: 55px;
+}
+.rectangle-parent5 {
+  top: 141px;
+  cursor: pointer;
+}
+.frame-div,
+.rectangle-parent6 {
+  top: 239px;
+}
+.frame-div {
+  top: 362px;
+  left: 108px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 903px;
+  height: 533px;
+  overflow: hidden;
+}
+.mask-group-item {
+  object-fit: cover;
+}
+.group-child12,
+.mask-group-item,
+.mask-group2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 196px;
+  height: 207px;
+}
+.group-child12 {
+  top: 158.43px;
+  left: 30.66px;
+  background-color: var(--color-white);
+  width: 140.16px;
+  height: 48.57px;
+}
+.mask-group-group {
+  position: absolute;
+  top: 55px;
+  left: 58px;
+  width: 196px;
+  height: 207px;
+}
+.a-homepage-logged-in-profile-child {
+  position: absolute;
+  top: 238px;
+  left: -117px;
+  background-color: var(--color-darkslateblue-100);
+  width: 1583px;
+  height: 38px;
+}
+.bts2 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.library2 {
+  margin: 0;
+}
+.bts-library2 {
+  position: absolute;
+  top: 90px;
+  left: 195px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-notable);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 202px;
+  height: 44px;
+}
+.about2,
+.army,
+.register2,
+.search2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 106px;
+  height: 37px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.army,
+.register2,
+.search2 {
+  left: 106px;
+  width: 118px;
+}
+.army,
+.search2 {
+  left: 337px;
+  width: 81px;
+}
+.army {
+  left: 238px;
+  text-decoration: underline;
+  color: var(--color-darkslateblue-100);
+  width: 93px;
+}
+.a-homepage-logged-in-profile-inner,
+.about-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 418px;
+  height: 37px;
+}
+.a-homepage-logged-in-profile-inner {
+  top: 49px;
+  left: 928px;
+  font-size: var(--font-size-lg);
+}
+.books2,
+.music2,
+.videos2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 198px;
+  height: 33px;
+}
+.music2,
+.videos2 {
+  left: 88px;
+}
+.videos2 {
+  left: 186px;
+}
+.books-container,
+.frame-item {
+  position: absolute;
+  top: 180px;
+  left: 962px;
+  width: 384px;
+  height: 33px;
+}
+.frame-item {
+  top: 4px;
+  left: 20px;
+  width: 40px;
+  height: 82px;
+  object-fit: cover;
+}
+.rectangle-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 71px;
+  overflow: hidden;
+}
+.a-homepage-logged-in-profile-inner1 {
+  position: absolute;
+  top: 78px;
+  left: 1172px;
+  width: 80px;
+  height: 71px;
+}
+.frame-inner,
+.group-child13 {
+  position: absolute;
+  width: 134px;
+}
+.frame-inner {
+  top: 222px;
+  left: 24px;
+  height: 275px;
+  object-fit: cover;
+}
+.group-child13 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslateblue-200);
+  height: 40px;
+}
+.kpcases {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  display: inline-block;
+  width: 66px;
+  height: 28px;
+}
+.ellipse-icon,
+.rectangle-parent8 {
+  position: absolute;
+  top: 518px;
+  left: 24px;
+  width: 134px;
+  height: 40px;
+}
+.ellipse-icon {
+  top: 25px;
+  left: 3px;
+  width: 176px;
+  height: 176px;
+  object-fit: cover;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 188px;
+  height: 564px;
+  overflow: hidden;
+}
+.a-homepage-logged-in-profile-inner2 {
+  position: absolute;
+  top: 337px;
+  left: 1093px;
+  width: 188px;
+  height: 564px;
+  text-align: left;
+  color: var(--color-white);
+}
+.a-homepage-logged-in-profile {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-noto-music);
+}

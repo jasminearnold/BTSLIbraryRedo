@@ -1,0 +1,195 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.mask-group-child6,
+.mask-group9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 196px;
+  height: 207px;
+}
+.mask-group-child6 {
+  object-fit: cover;
+}
+.mask-group9 {
+  cursor: pointer;
+}
+.group-child33 {
+  position: absolute;
+  top: 158.43px;
+  left: 30.66px;
+  background-color: var(--color-white);
+  width: 140.16px;
+  height: 48.57px;
+}
+.mask-group-parent3 {
+  position: absolute;
+  top: 55px;
+  left: 58px;
+  width: 196px;
+  height: 207px;
+}
+.book-details-1-child {
+  position: absolute;
+  top: 238px;
+  left: 0;
+  width: 1583px;
+  height: 35px;
+  mix-blend-mode: normal;
+}
+.bts9 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.bts-library9 {
+  position: absolute;
+  top: 90px;
+  left: 195px;
+  font-family: var(--font-notable);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 202px;
+  height: 44px;
+}
+.about9,
+.log-in14,
+.register10,
+.search9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 106px;
+  height: 37px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.log-in14,
+.register10,
+.search9 {
+  left: 106px;
+  width: 118px;
+}
+.log-in14,
+.search9 {
+  left: 337px;
+  width: 81px;
+}
+.log-in14 {
+  left: 238px;
+  white-space: pre-wrap;
+  width: 93px;
+}
+.about-parent7,
+.book-details-1-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 418px;
+  height: 37px;
+}
+.book-details-1-inner {
+  top: 49px;
+  left: 928px;
+  font-size: var(--font-size-lg);
+}
+.books9,
+.music9 {
+  top: 0;
+  display: inline-block;
+  width: 198px;
+}
+.books9 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.1em;
+  height: 33px;
+  -webkit-text-stroke: 1px #000;
+}
+.music9 {
+  left: 88px;
+}
+.books-parent7,
+.music9,
+.videos9 {
+  position: absolute;
+  height: 33px;
+}
+.videos9 {
+  top: 0;
+  left: 186px;
+  display: inline-block;
+  width: 198px;
+}
+.books-parent7 {
+  top: 180px;
+  left: 962px;
+  width: 384px;
+  font-size: var(--font-size-base);
+}
+.frame-child14 {
+  position: absolute;
+  top: 27px;
+  left: 29px;
+  background-color: var(--color-darkslateblue-300);
+  width: 1167px;
+  height: 372px;
+}
+.frame-child15 {
+  position: absolute;
+  top: 27px;
+  left: 28px;
+  width: 480px;
+  height: 348px;
+  object-fit: cover;
+}
+.find-your-new {
+  margin: 0;
+}
+.moderator-picks-book-container {
+  position: absolute;
+  top: 67px;
+  left: 554px;
+  display: inline-block;
+  width: 571px;
+  height: 270px;
+}
+.frame-child16 {
+  position: absolute;
+  top: 287px;
+  left: 740px;
+  background-color: var(--color-darkslateblue-100);
+  width: 200px;
+  height: 50px;
+}
+.learn-more6 {
+  position: absolute;
+  top: 291px;
+  left: 790px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  -webkit-text-stroke: 2px #fff;
+  cursor: pointer;
+}
+.rectangle-parent16 {
+  position: absolute;
+  top: 298px;
+  left: 86px;
+  width: 1267px;
+  height: 674px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.book-details-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-noto-music);
+}

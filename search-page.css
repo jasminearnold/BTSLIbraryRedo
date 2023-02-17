@@ -1,0 +1,333 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.search-page-child {
+  position: absolute;
+  top: 238px;
+  left: 0;
+  width: 1583px;
+  height: 284px;
+  mix-blend-mode: normal;
+}
+.bts12 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.library12 {
+  margin: 0;
+}
+.bts-library12 {
+  position: absolute;
+  top: 90px;
+  left: 195px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-notable);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 202px;
+  height: 44px;
+}
+.about12,
+.army3,
+.register13,
+.search12 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  height: 37px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.army3 {
+  left: 231px;
+  text-decoration: underline;
+  color: var(--color-darkslateblue-100);
+  width: 93px;
+}
+.about12,
+.register13,
+.search12 {
+  left: 0;
+  width: 106px;
+}
+.register13,
+.search12 {
+  left: 106px;
+  width: 118px;
+}
+.search12 {
+  left: 337px;
+  text-decoration: underline;
+  width: 81px;
+}
+.army-parent,
+.search-page-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 418px;
+  height: 37px;
+}
+.search-page-inner {
+  top: 49px;
+  left: 928px;
+  font-size: var(--font-size-lg);
+}
+.books12,
+.music12 {
+  top: 0;
+  display: inline-block;
+  width: 198px;
+}
+.books12 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.1em;
+  height: 33px;
+  -webkit-text-stroke: 1px #000;
+}
+.music12 {
+  left: 88px;
+}
+.books-parent10,
+.music12,
+.videos12 {
+  position: absolute;
+  height: 33px;
+}
+.videos12 {
+  top: 0;
+  left: 186px;
+  display: inline-block;
+  width: 198px;
+}
+.books-parent10 {
+  top: 180px;
+  left: 962px;
+  width: 384px;
+  font-size: var(--font-size-base);
+}
+.enter-search-keyword {
+  position: absolute;
+  top: 271px;
+  left: 114px;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 424px;
+  height: 192px;
+}
+.search-page-item {
+  position: absolute;
+  top: 236px;
+  left: 657px;
+  width: 570px;
+  height: 286px;
+  overflow: hidden;
+}
+.frame-child25,
+.frame-child26,
+.frame-child27,
+.frame-child28,
+.frame-child29 {
+  position: absolute;
+  top: 27px;
+  left: 575px;
+  width: 280px;
+  height: 145px;
+  object-fit: cover;
+}
+.frame-child26,
+.frame-child27,
+.frame-child28,
+.frame-child29 {
+  top: 234px;
+}
+.frame-child27,
+.frame-child28,
+.frame-child29 {
+  top: 27px;
+  left: 916px;
+}
+.frame-child28,
+.frame-child29 {
+  top: 234px;
+}
+.frame-child29 {
+  top: 27px;
+  left: 28px;
+  width: 480px;
+  height: 348px;
+  cursor: pointer;
+}
+.frame-child30 {
+  position: absolute;
+  top: 375px;
+  left: 29px;
+  background-color: var(--color-darkslateblue-100);
+  width: 479px;
+  height: 24px;
+}
+.moderator-picks-book2 {
+  position: absolute;
+  top: 370px;
+  left: 28px;
+  display: inline-block;
+  width: 480px;
+  height: 34px;
+}
+.frame-child31,
+.frame-child32,
+.frame-child33,
+.frame-child34 {
+  position: absolute;
+  top: 172px;
+  left: 575px;
+  background: linear-gradient(#6667ab, #6667ab),
+    linear-gradient(#6667ab, #6667ab), #6667ab;
+  width: 280px;
+  height: 25px;
+}
+.frame-child32,
+.frame-child33,
+.frame-child34 {
+  left: 916px;
+}
+.frame-child33,
+.frame-child34 {
+  top: 375px;
+  height: 24px;
+}
+.frame-child34 {
+  left: 575px;
+}
+.book-lists-for1,
+.books-of-the1,
+.personalized-picks1,
+.read-alikes-more1 {
+  position: absolute;
+  top: 168px;
+  left: 575px;
+  display: inline-block;
+  width: 280px;
+  height: 29px;
+}
+.books-of-the1,
+.personalized-picks1,
+.read-alikes-more1 {
+  top: 370px;
+  left: 572px;
+}
+.books-of-the1,
+.read-alikes-more1 {
+  top: 168px;
+  left: 916px;
+}
+.read-alikes-more1 {
+  top: 370px;
+}
+.rectangle-parent22 {
+  position: absolute;
+  top: 522px;
+  left: 86px;
+  width: 1267px;
+  height: 450px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.search-page-child1 {
+  position: absolute;
+  top: 337px;
+  left: 115px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gainsboro);
+  width: 542px;
+  height: 67px;
+}
+.what-would-you {
+  position: absolute;
+  top: 350px;
+  left: 147px;
+  text-align: left;
+  display: inline-block;
+  width: 472px;
+  height: 43px;
+}
+.material-symbolssearch-rounde-icon {
+  position: absolute;
+  top: 339px;
+  left: 562px;
+  width: 63px;
+  height: 64px;
+  overflow: hidden;
+}
+.search-by-member {
+  position: absolute;
+  top: 0;
+  left: 38px;
+  display: inline-block;
+  width: 424px;
+  height: 192px;
+}
+.group-child40 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 26px;
+  height: 26px;
+}
+.search-by-member-parent,
+.search-by-the-catalog-parent {
+  position: absolute;
+  top: 426px;
+  left: 121px;
+  width: 462px;
+  height: 192px;
+  text-align: left;
+  color: var(--color-white);
+}
+.search-by-the-catalog-parent {
+  top: 463px;
+}
+.frame-child35,
+.search-page-child2 {
+  position: absolute;
+  top: 440px;
+  left: 128px;
+  width: 11px;
+  height: 11px;
+}
+.frame-child35 {
+  top: 4px;
+  left: 20px;
+  width: 40px;
+  height: 82px;
+  object-fit: cover;
+}
+.rectangle-wrapper11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 71px;
+  overflow: hidden;
+}
+.search-page-inner1 {
+  position: absolute;
+  top: 78px;
+  left: 1166px;
+  width: 80px;
+  height: 71px;
+}
+.search-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-noto-music);
+}

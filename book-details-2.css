@@ -1,0 +1,213 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.mask-group-child7 {
+  object-fit: cover;
+}
+.group-child34,
+.mask-group-child7,
+.mask-group10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 196px;
+  height: 207px;
+}
+.group-child34 {
+  top: 158.43px;
+  left: 30.66px;
+  background-color: var(--color-white);
+  width: 140.16px;
+  height: 48.57px;
+}
+.mask-group-parent4 {
+  position: absolute;
+  top: 55px;
+  left: 58px;
+  width: 196px;
+  height: 207px;
+  cursor: pointer;
+}
+.book-details-2-child {
+  position: absolute;
+  top: 238px;
+  left: 0;
+  width: 1583px;
+  height: 35px;
+  mix-blend-mode: normal;
+}
+.library10 {
+  margin: 0;
+}
+.bts-library10 {
+  position: absolute;
+  top: 90px;
+  left: 195px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-notable);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 202px;
+  height: 44px;
+}
+.about10,
+.log-in16,
+.register11,
+.search10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 106px;
+  height: 37px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.log-in16,
+.register11,
+.search10 {
+  left: 106px;
+  width: 118px;
+}
+.log-in16,
+.search10 {
+  left: 337px;
+  width: 81px;
+}
+.log-in16 {
+  left: 238px;
+  white-space: pre-wrap;
+  width: 93px;
+}
+.about-parent8,
+.book-details-2-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 418px;
+  height: 37px;
+}
+.book-details-2-inner {
+  top: 49px;
+  left: 928px;
+  font-size: var(--font-size-lg);
+}
+.books10,
+.music10,
+.videos10 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  width: 198px;
+  height: 33px;
+}
+.books10 {
+  left: 0;
+  letter-spacing: 0.1em;
+  -webkit-text-stroke: 1px #000;
+}
+.music10,
+.videos10 {
+  left: 88px;
+}
+.videos10 {
+  left: 186px;
+}
+.books-parent8,
+.frame-child17 {
+  position: absolute;
+  top: 180px;
+  left: 962px;
+  width: 384px;
+  height: 33px;
+}
+.frame-child17 {
+  top: 27px;
+  left: 29px;
+  background-color: var(--color-darkslateblue-300);
+  width: 1167px;
+  height: 372px;
+}
+.the-midnight-library {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.the-midnight-library-container {
+  position: absolute;
+  top: 58px;
+  left: 409px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 716px;
+  height: 279px;
+}
+.star-bombs1 {
+  text-decoration: underline;
+}
+.ratings-65-container {
+  position: absolute;
+  top: 409px;
+  left: 400px;
+  display: inline-block;
+  width: 716px;
+  height: 279px;
+}
+.group-child35 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-100);
+  width: 200px;
+  height: 50px;
+}
+.place-hold {
+  position: absolute;
+  top: 4px;
+  left: 50px;
+  -webkit-text-stroke: 2px #fff;
+}
+.rectangle-parent18 {
+  position: absolute;
+  top: 312px;
+  left: 409px;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.frame-child18 {
+  position: absolute;
+  top: 58px;
+  left: 66px;
+  width: 300px;
+  height: 460px;
+  object-fit: cover;
+}
+.group-icon {
+  position: absolute;
+  top: 406px;
+  left: 470px;
+  width: 268px;
+  height: 50px;
+  cursor: pointer;
+}
+.rectangle-parent17 {
+  position: absolute;
+  top: 298px;
+  left: 102px;
+  width: 1267px;
+  height: 674px;
+  overflow: hidden;
+  text-align: left;
+}
+.book-details-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-noto-music);
+}

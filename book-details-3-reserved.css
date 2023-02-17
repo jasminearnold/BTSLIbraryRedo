@@ -1,0 +1,237 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.mask-group-child11 {
+  object-fit: cover;
+}
+.group-child45,
+.mask-group-child11,
+.mask-group14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 196px;
+  height: 207px;
+}
+.group-child45 {
+  top: 158.43px;
+  left: 30.66px;
+  background-color: var(--color-white);
+  width: 140.16px;
+  height: 48.57px;
+}
+.mask-group-parent7 {
+  position: absolute;
+  top: 55px;
+  left: 58px;
+  width: 196px;
+  height: 207px;
+  cursor: pointer;
+}
+.book-details-3-reserved-child {
+  position: absolute;
+  top: 238px;
+  left: 0;
+  width: 1583px;
+  height: 35px;
+  mix-blend-mode: normal;
+}
+.bts14 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.library14 {
+  margin: 0;
+}
+.bts-library14 {
+  position: absolute;
+  top: 90px;
+  left: 195px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-notable);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 202px;
+  height: 44px;
+}
+.about14,
+.register15 {
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.about14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 106px;
+  height: 37px;
+}
+.register15 {
+  left: 106px;
+  width: 118px;
+}
+.army4,
+.register15,
+.search14 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  height: 37px;
+}
+.search14 {
+  left: 337px;
+  width: 81px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.army4 {
+  left: 238px;
+  text-decoration: underline;
+  color: var(--color-darkslateblue-100);
+  width: 93px;
+  -webkit-text-stroke: 1px #6667ab;
+}
+.about-parent11,
+.book-details-3-reserved-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 418px;
+  height: 37px;
+}
+.book-details-3-reserved-inner {
+  top: 49px;
+  left: 928px;
+  font-size: var(--font-size-lg);
+}
+.books14,
+.music14,
+.videos14 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  width: 198px;
+  height: 33px;
+}
+.books14 {
+  left: 0;
+  letter-spacing: 0.1em;
+  -webkit-text-stroke: 1px #000;
+}
+.music14,
+.videos14 {
+  left: 88px;
+}
+.videos14 {
+  left: 186px;
+}
+.books-parent12,
+.frame-child46 {
+  position: absolute;
+  top: 180px;
+  left: 962px;
+  width: 384px;
+  height: 33px;
+}
+.frame-child46 {
+  top: 27px;
+  left: 29px;
+  background-color: var(--color-darkslateblue-300);
+  width: 1167px;
+  height: 372px;
+}
+.the-midnight-library-container2 {
+  position: absolute;
+  top: 58px;
+  left: 409px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 716px;
+  height: 279px;
+}
+.group-child46 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-300);
+  width: 200px;
+  height: 50px;
+}
+.reserved {
+  position: absolute;
+  top: 0;
+  left: 28px;
+  display: inline-block;
+  width: 143px;
+  height: 37px;
+  -webkit-text-stroke: 2px #6667ab;
+}
+.rectangle-parent25 {
+  position: absolute;
+  top: 312px;
+  left: 409px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+  color: var(--color-darkslateblue-100);
+}
+.frame-child47 {
+  position: absolute;
+  top: 58px;
+  left: 66px;
+  width: 300px;
+  height: 460px;
+  object-fit: cover;
+}
+.book-will-be {
+  position: absolute;
+  top: 362px;
+  left: 409px;
+  display: inline-block;
+  width: 789px;
+  height: 92px;
+}
+.rectangle-parent24 {
+  position: absolute;
+  top: 298px;
+  left: 89px;
+  width: 1267px;
+  height: 674px;
+  overflow: hidden;
+  text-align: left;
+}
+.frame-child48 {
+  position: absolute;
+  top: 4px;
+  left: 20px;
+  width: 40px;
+  height: 82px;
+  object-fit: cover;
+}
+.rectangle-wrapper12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 71px;
+  overflow: hidden;
+}
+.book-details-3-reserved-inner1 {
+  position: absolute;
+  top: 78px;
+  left: 1173px;
+  width: 80px;
+  height: 71px;
+}
+.book-details-3-reserved {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-noto-music);
+}

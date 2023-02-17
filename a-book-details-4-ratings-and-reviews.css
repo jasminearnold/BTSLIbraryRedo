@@ -1,0 +1,363 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.mask-group-child8 {
+  object-fit: cover;
+}
+.group-child36,
+.mask-group-child8,
+.mask-group11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 196px;
+  height: 207px;
+}
+.group-child36 {
+  top: 158.43px;
+  left: 30.66px;
+  background-color: var(--color-white);
+  width: 140.16px;
+  height: 48.57px;
+}
+.mask-group-parent5 {
+  position: absolute;
+  top: 55px;
+  left: 58px;
+  width: 196px;
+  height: 207px;
+  cursor: pointer;
+}
+.a-book-details-4-ratings-and-child {
+  position: absolute;
+  top: 238px;
+  left: 0;
+  width: 1583px;
+  height: 35px;
+  mix-blend-mode: normal;
+}
+.bts-library11 {
+  position: absolute;
+  top: 90px;
+  left: 195px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-notable);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 202px;
+  height: 44px;
+}
+.about11,
+.log-in18,
+.register12,
+.search11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 106px;
+  height: 37px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.log-in18,
+.register12,
+.search11 {
+  left: 106px;
+  width: 118px;
+}
+.log-in18,
+.search11 {
+  left: 337px;
+  width: 81px;
+}
+.log-in18 {
+  left: 238px;
+  white-space: pre-wrap;
+  width: 93px;
+}
+.a-book-details-4-ratings-and-inner,
+.about-parent9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 418px;
+  height: 37px;
+}
+.a-book-details-4-ratings-and-inner {
+  top: 49px;
+  left: 928px;
+  font-size: var(--font-size-lg);
+}
+.books11,
+.music11 {
+  top: 0;
+  display: inline-block;
+  width: 198px;
+}
+.books11 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.1em;
+  height: 33px;
+  -webkit-text-stroke: 1px #000;
+}
+.music11 {
+  left: 88px;
+}
+.books-parent9,
+.music11,
+.videos11 {
+  position: absolute;
+  height: 33px;
+}
+.videos11 {
+  top: 0;
+  left: 186px;
+  display: inline-block;
+  width: 198px;
+}
+.books-parent9 {
+  top: 180px;
+  left: 962px;
+  width: 384px;
+}
+.the-midnight-library-container1 {
+  position: absolute;
+  top: 58px;
+  left: 409px;
+  white-space: pre-wrap;
+  display: none;
+  width: 716px;
+  height: 279px;
+}
+.ratings-65-container1 {
+  position: absolute;
+  top: 409px;
+  left: 400px;
+  display: inline-block;
+  width: 716px;
+  height: 279px;
+}
+.group-child37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-100);
+  width: 200px;
+  height: 50px;
+}
+.place-hold1 {
+  position: absolute;
+  top: 4px;
+  left: 50px;
+  -webkit-text-stroke: 2px #fff;
+}
+.rectangle-parent19 {
+  position: absolute;
+  top: 312px;
+  left: 409px;
+  width: 200px;
+  height: 50px;
+  color: var(--color-white);
+}
+.frame-child19 {
+  position: absolute;
+  top: 58px;
+  left: 66px;
+  width: 300px;
+  height: 460px;
+  object-fit: cover;
+}
+.frame-child20,
+.frame-child21 {
+  position: absolute;
+  top: 406px;
+  left: 470px;
+  width: 268px;
+  height: 50px;
+}
+.frame-child21 {
+  top: 27px;
+  left: 29px;
+  background-color: var(--color-darkslateblue-300);
+  width: 1167px;
+  height: 372px;
+}
+.the-midnight-library-haig-mat-parent {
+  position: absolute;
+  top: 298px;
+  left: 89px;
+  width: 1267px;
+  height: 674px;
+  overflow: hidden;
+  text-align: left;
+}
+.frame-child22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  width: 969px;
+  height: 633px;
+}
+.the-midnight-library4 {
+  position: absolute;
+  top: 26px;
+  left: 48px;
+  display: inline-block;
+  width: 217px;
+  height: 42px;
+}
+.group-child38 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-200);
+  width: 141px;
+  height: 40px;
+}
+.write-a-review {
+  position: absolute;
+  top: 3px;
+  left: 16px;
+  display: inline-block;
+  width: 130px;
+  height: 25px;
+}
+.rectangle-parent21 {
+  position: absolute;
+  top: 26px;
+  left: 783px;
+  width: 146px;
+  height: 40px;
+  color: var(--color-white);
+}
+.frame-child23 {
+  position: absolute;
+  top: 111px;
+  left: 48px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.mdistar-circle-outline-icon {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  width: 37px;
+  height: 37px;
+  overflow: hidden;
+}
+.mdistar-circle-outline-icon1,
+.mdistar-circle-outline-icon2,
+.mdistar-circle-outline-icon3 {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  width: 37px;
+  height: 37px;
+  overflow: hidden;
+}
+.mdistar-circle-outline-icon2,
+.mdistar-circle-outline-icon3 {
+  left: 86px;
+}
+.mdistar-circle-outline-icon3 {
+  left: 127px;
+}
+.mdistar-circle-outline-icon4,
+.mdistar-circle-outline-icon5,
+.mdistar-circle-outline-icon6 {
+  position: absolute;
+  top: 0;
+  left: 168px;
+  width: 37px;
+  height: 37px;
+  overflow: hidden;
+}
+.mdistar-circle-outline-icon5,
+.mdistar-circle-outline-icon6 {
+  left: 209px;
+}
+.mdistar-circle-outline-icon6 {
+  left: 248px;
+}
+.star-bombs3 {
+  position: absolute;
+  top: 37px;
+  left: 16px;
+  display: inline-block;
+  width: 128px;
+  height: 34px;
+}
+.mdistar-circle-outline-parent {
+  position: absolute;
+  top: 111px;
+  left: 157px;
+  width: 295px;
+  height: 90px;
+  overflow: hidden;
+}
+.this-book-has-been-a-life-save {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.kpcases-this-book-container {
+  position: absolute;
+  top: 201px;
+  left: 138px;
+  display: inline-block;
+  width: 716px;
+  height: 213px;
+}
+.frame-child24 {
+  position: absolute;
+  top: 433px;
+  left: 48px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.mdistar-circle-outline-group {
+  position: absolute;
+  top: 433px;
+  left: 157px;
+  width: 295px;
+  height: 90px;
+  overflow: hidden;
+}
+.more {
+  text-decoration: underline;
+}
+.i-read-this-book-in-one-sittin {
+  margin: 0;
+}
+.jin-rjwootoeya-i-read-container {
+  position: absolute;
+  top: 523px;
+  left: 138px;
+  display: inline-block;
+  width: 716px;
+  height: 72px;
+}
+.rectangle-parent20 {
+  position: absolute;
+  top: 288px;
+  left: 236px;
+  width: 969px;
+  height: 633px;
+  overflow: hidden;
+  text-align: left;
+}
+.a-book-details-4-ratings-and {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-noto-music);
+}

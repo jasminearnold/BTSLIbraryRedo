@@ -1,0 +1,393 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.property-1default-child {
+  position: absolute;
+  top: 238px;
+  left: -117px;
+  background-color: var(--color-darkslateblue-100);
+  width: 1583px;
+  height: 38px;
+}
+.bts {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.library {
+  margin: 0;
+}
+.bts-library {
+  position: absolute;
+  top: 90px;
+  left: 195px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-notable);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 202px;
+  height: 44px;
+}
+.about,
+.log-in,
+.register,
+.search {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 106px;
+  height: 37px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.log-in,
+.register,
+.search {
+  left: 106px;
+  width: 118px;
+}
+.log-in,
+.search {
+  left: 337px;
+  width: 81px;
+}
+.log-in {
+  left: 238px;
+  white-space: pre-wrap;
+  width: 93px;
+}
+.about-parent,
+.property-1default-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 418px;
+  height: 37px;
+}
+.property-1default-inner {
+  top: 49px;
+  left: 928px;
+  font-size: var(--font-size-lg);
+}
+.books,
+.music,
+.videos {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  width: 198px;
+  height: 33px;
+}
+.books {
+  left: 0;
+  cursor: pointer;
+}
+.music,
+.videos {
+  left: 88px;
+}
+.videos {
+  left: 186px;
+}
+.books-parent,
+.group-child {
+  position: absolute;
+  top: 180px;
+  left: 962px;
+  width: 384px;
+  height: 33px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 4px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1267px;
+  height: 252px;
+}
+.span {
+  font-size: var(--font-size-2xl);
+}
+.top-10-bangtan-container {
+  position: absolute;
+  top: 35px;
+  left: 29px;
+  display: inline-block;
+  width: 282px;
+  height: 169px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.4);
+}
+.mdiheart-icon {
+  position: absolute;
+  top: 4px;
+  left: 311px;
+  width: 242px;
+  height: 242px;
+  overflow: hidden;
+}
+.bangtan-recommended-books-container {
+  position: absolute;
+  top: 20px;
+  left: 17px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 653px;
+  height: 201px;
+}
+.bangtan-recommended-books-by-e-wrapper {
+  position: absolute;
+  top: 4px;
+  left: 581px;
+  background-color: black;
+  border: 1px solid black;
+  box-sizing: border-box;
+  width: 686px;
+  height: 248px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: white;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 307px;
+  left: 86px;
+  width: 1267px;
+  height: 252px;
+  font-size: var(--font-size-4xl);
+}
+.property-1default-item {
+  position: absolute;
+  top: 595px;
+  left: 629px;
+  width: 181px;
+  height: 142px;
+  object-fit: cover;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-100);
+  width: 200px;
+  height: 50px;
+}
+.learn-more {
+  position: absolute;
+  top: 4px;
+  left: 50px;
+  -webkit-text-stroke: 2px #fff;
+}
+.rectangle-container,
+.rectangle-group {
+  position: absolute;
+  top: 318px;
+  left: 75px;
+  width: 200px;
+  height: 50px;
+}
+.rectangle-container {
+  top: 199px;
+  left: 533px;
+}
+.discover-books-read-container {
+  position: absolute;
+  top: 160px;
+  left: 20px;
+  color: var(--color-black);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 311px;
+  height: 151px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  background-color: var(--color-darkslateblue-300);
+  width: 350px;
+  height: 388px;
+}
+.explore-all-books-container {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  display: inline-block;
+  width: 325px;
+  height: 351px;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-300);
+  width: 350px;
+  height: 388px;
+}
+.explore-all-books-we-and-bts-l-parent {
+  position: absolute;
+  top: 0;
+  left: 459px;
+  width: 350px;
+  height: 388px;
+  color: var(--color-black);
+}
+.group-container,
+.group-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 809px;
+  height: 389px;
+}
+.group-wrapper {
+  top: 1px;
+  left: 458px;
+}
+.kim-namjoom {
+  margin-bottom: 0;
+}
+.jeon-jungkook {
+  text-decoration: underline;
+}
+.kim-namjoom-kim-seokjin-min-yo {
+  margin: 0;
+  padding-left: var(--padding-md);
+}
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 350px;
+  height: 389px;
+  font-size: var(--font-inherit);
+  color: var(--color-black);
+  font-family: var(--font-inherit);
+}
+.group-parent {
+  position: absolute;
+  top: 583px;
+  left: 87px;
+  width: 1267px;
+  height: 390px;
+  text-align: left;
+  color: var(--color-white);
+}
+.bts-logo-png9-1-icon {
+  position: absolute;
+  top: 34px;
+  left: 56px;
+  width: 139px;
+  height: 180px;
+  object-fit: cover;
+}
+.property-1default {
+  position: absolute;
+  top: -18px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.mask-group-child {
+  object-fit: cover;
+}
+.group-child3,
+.mask-group-child,
+.mask-group1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 196px;
+  height: 207px;
+}
+.group-child3 {
+  top: 158.43px;
+  left: 30.66px;
+  background-color: var(--color-white);
+  width: 140.16px;
+  height: 48.57px;
+}
+.mask-group-parent {
+  position: absolute;
+  top: 55px;
+  left: 58px;
+  width: 196px;
+  height: 207px;
+}
+.about1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 106px;
+}
+.about1,
+.register1,
+.search1 {
+  height: 37px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.register1 {
+  position: absolute;
+  top: 0;
+  left: 106px;
+  display: inline-block;
+  width: 118px;
+}
+.search1 {
+  left: 337px;
+  width: 81px;
+}
+.books1,
+.log-in2,
+.search1 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+}
+.log-in2 {
+  left: 238px;
+  white-space: pre-wrap;
+  width: 93px;
+  height: 37px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.3);
+}
+.books1 {
+  left: 0;
+  width: 198px;
+  height: 33px;
+}
+.homepage,
+.property-1variant2 {
+  position: absolute;
+  overflow: hidden;
+}
+.property-1variant2 {
+  top: 1064px;
+  left: 20px;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+}
+.homepage {
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  width: 1480px;
+  height: 1054px;
+}
+.mask-group {
+  position: relative;
+  width: 100%;
+  height: 1054px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-noto-music);
+}

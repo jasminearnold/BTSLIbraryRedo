@@ -1,0 +1,40 @@
+:root {
+  /* fonts */
+  --font-noto-music: "Noto Music";
+  --font-inherit: inherit;
+  --font-notable: Notable;
+  --font-lora: Lora;
+
+  /* font sizes */
+  --font-size-3xs: 7px;
+  --font-size-2xs: 10px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 28px;
+  --font-size-4xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslateblue-100: #6667ab;
+  --color-darkslateblue-200: rgba(102, 103, 171, 0.5);
+  --color-darkslateblue-300: rgba(102, 103, 171, 0.25);
+  --color-ghostwhite: #f8f1ff;
+  --color-darkslategray-100: #403a4b;
+  --color-darkslategray-200: rgba(64, 58, 75, 0.6);
+  --color-mediumpurple-100: #985ace;
+  --color-mediumpurple-200: rgba(152, 90, 206, 0);
+  --color-gainsboro: #d9d9d9;
+
+  /* Paddings */
+  --padding-md: 21px;
+
+  /* border radiuses */
+  --br-sm: 7px;
+  --br-md: 10px;
+  --br-lg: 20px;
+}
